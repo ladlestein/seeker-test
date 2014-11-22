@@ -6,5 +6,7 @@ int main(int argc, char *argv[]) {
 
   int foo = 1;
   printf("there is a foo with #: %d\n", foo);
+
+  printf("and another thing!\n");
   return 0;
 }
